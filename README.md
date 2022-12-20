@@ -1,3 +1,2 @@
-# Hi there 👋, I'm Ben!
-- 📫 How to reach me: [email](mailto:bacarpenter04@gmail.com)!
-- 😄 Pronouns: he/him/his
+# hi im ben (he/him)
+school of computer science | carleton university
